@@ -8,4 +8,9 @@ var z = {
     name: "ark",
     id: 67
 }
-console.log(z.indexOf("name"));
+// console.log(z.indexOf("name"));
+
+
+var x = [1,2,3,44,5];
+x.push(1);
+console.log(x);
